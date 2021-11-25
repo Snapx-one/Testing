@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r}
+print("testing created within Rstudio")
+print("Created in Github")
+```
+
+```{r}
+library(tidyverse)
+```
+
